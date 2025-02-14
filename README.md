@@ -1,3 +1,11 @@
+```c++
+class developer
+{
+  public:
+    std::string status = "Accepting Challenges";
+};
+```
+
 <!---
 - 👋 Hi, I’m @xrierac
 - 👀 I’m interested in ...
