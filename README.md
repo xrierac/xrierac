@@ -2,7 +2,7 @@
 class developer
 {
   public:
-    std::string status = "Accepting Challenges";
+    std::string status = "Looking For Challenges";
 };
 ```
 
