@@ -1,6 +1,6 @@
 ## ⚡ Technologies
 
-![C](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
