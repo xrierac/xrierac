@@ -1,8 +1,6 @@
 ## ⚡ Technologies
 
 ![Static Badge](https://img.shields.io/badge/C-C?logo=c&logoColor=%23A8B9CC&logoSize=auto&color=blue)
-
-![Static Badge](https://img.shields.io/badge/C-C?logo=c&logoSize=auto&labelColor=%23A8B9CC&color=blue)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-C%2B%2B?logo=cplusplus&logoSize=auto&labelColor=%2300599C&color=gray)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
