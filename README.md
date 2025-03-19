@@ -1,8 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Xavier Riera
-====================================================================================================================================
-
-Software Developer Looking For Challenges
------------------------------------------
+![Header](./github-header-image.png)
 
 I've been learning to code during the last 2 years at Hive Helsinki, after changing paths from my background in psychology. I have experience with C, C++ and Kotlin. I enjoy code that runs fast and with little memory. I am currently learning to use TypeScript, PHP and Node.js, creating a simple web game
 
