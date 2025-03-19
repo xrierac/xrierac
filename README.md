@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-I've been learning to code during the last 2 years at Hive Helsinki, after changing paths from my background in psychology. I have experience with C, C++ and Kotlin. I enjoy code that runs fast and with little memory. I am currently learning to use TypeScript, PHP and Node.js, creating a simple web game
+I've been learning to code during the last 2 years at Hive Helsinki, after changing paths from my background in psychology. I have experience with C, C++ and Kotlin. I enjoy code that runs fast and with little memory footprint. I am currently learning to use TypeScript, PHP and Node.js, creating a simple web game
 
 *   🌍  I'm based in Helsinki
 *   🧠  I'm learning Kotlin and TypeScript
